@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaarbani&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaarbani" /> </p>
 
-- 💬 Ask me about ** Java ,C++ ,Html ,CSS ,JS **
+- 💬 Ask me about ** Java ,C++ ,Html ,CSS ,JS ,PHP ,SQL**
 
 - 📫 How to reach me **hamzaarbani80@gmail.com**
 
