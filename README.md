@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi there, I'm Hamza 👋</h1>
-<h3 align="center">🚀 Full Stack Web Developer | AI & Data Enthusiast from Pakistan 🇵🇰</h3>
+<h3 align="center">🚀 Full Stack Developer | AI & Data Enthusiast from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamzaarbani&label=Profile%20Views&color=0e75b6&style=flat" alt="hamzaarbani" />
@@ -8,23 +8,19 @@
 ---
 
 ### 🔥 About Me
-- 💻 I build **scalable full stack web applications** with modern technologies.
-- 🌐 Strong in both **Frontend & Backend Development**.
-- 🤖 Currently exploring **AI, Machine Learning, and Data Science**.
-- 🛠️ Passionate about **problem-solving, system design, and optimization**.
-- 💬 Ask me about:  
-  `Java` • `C++` • `Python` • `HTML` • `CSS` • `JavaScript` • `React.js` • `PHP` • `SQL`
-- 📫 Reach me at: **hamzaarbani80@gmail.com**
+- 💻 Full Stack Developer building scalable and efficient web applications  
+- 🌐 Skilled in frontend and backend development  
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and Data Science  
+- 🛠️ Focused on problem-solving, system design, and performance optimization  
+- 📫 Contact: **hamzaarbani80@gmail.com**
 
 ---
 
-### 🧠 Python & Libraries
-- 🐍 Core Python Development
-- 📊 Data Analysis: `NumPy` • `Pandas`
-- 📈 Visualization: `Matplotlib` • `Seaborn`
-- 🤖 Machine Learning: `Scikit-learn`
-- 🌐 Web Apps: `Streamlit`
-- 🧪 Basic AI Model Training & Implementation
+### 🧠 Skills & Technologies
+- 🐍 Python (Data Analysis, ML, Basic AI)
+- 📊 NumPy • Pandas • Matplotlib • Seaborn  
+- 🤖 Scikit-learn • Streamlit  
+- 🌐 Web Development & APIs  
 
 ---
 
